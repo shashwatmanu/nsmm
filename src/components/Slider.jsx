@@ -8,15 +8,20 @@ import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import { Button } from '@mui/material';
 import Card from '@mui/material/Card';
 import { useNavigate } from 'react-router-dom';
+import { useTheme, useMediaQuery } from '@mui/material';
 
 const Slider = () => {
     const navigate = useNavigate();
+    const theme = useTheme();
+  const isSmallScreen = useMediaQuery(theme.breakpoints.down('sm')); // Matches small devices
+
+  const howMany = isSmallScreen ? 1 : 3; 
   return (
    <>
    <div style={{margin:'48px', width:'auto'}}>
     <Swiper
       spaceBetween={50}
-      slidesPerView={3}
+      slidesPerView={howMany}
       onSlideChange={() => console.log('slide change')}
       onSwiper={(swiper) => console.log(swiper)}
       autoplay={{
