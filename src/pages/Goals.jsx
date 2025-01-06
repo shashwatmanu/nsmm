@@ -10,17 +10,18 @@ const Goals = () => {
   const theme = useTheme();
   const isSmallScreen = useMediaQuery(theme.breakpoints.down('sm')); // Matches small devices
 
-  const paperWidth = isSmallScreen ? '80%' : '50%';;
+  const paperWidth = isSmallScreen ? '80%' : '50%';
+  const paperHeight = isSmallScreen ? '100vw' : 'auto';
   return (
     <>
     <Navbar/>
-    <div style={{display:'flex', alignItems:'center', height:'auto', flexDirection:'column', justifyContent:'center', minHeight:'100vh'}}>
-    <Paper elevation={3} sx={{maxWidth: paperWidth, padding: '20px', height:'auto'}}>
+    <div style={{display:'flex', alignItems:'center', height:'auto', flexDirection:'column', justifyContent:'center', minHeight:'100vh', maxHeight:'100vh'}}>
+    <Paper elevation={3} sx={{maxWidth: paperWidth, padding: '20px', height:paperHeight, overflow:'auto'}}>
       <h1 style={{textAlign:'center'}}>Our Goals</h1>
       <Fade delay={700}>
       <p>Our Goal is to treat our clients as more than just an isolated business or service transaction. We are committed to:</p>
       </Fade>
-      <Fade cascade damping={1} delay={2000}>
+      <Fade cascade damping={1} delay={2000} triggerOnce={true}>
       <ul>
         <li>developing positive, sharing and productive lifelong relationships with our clients and their families</li>
         <li>taking the time necessary to understand and learn from our clients</li>
