@@ -3,13 +3,19 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import Paper from '@mui/material/Paper';
 import { Fade } from "react-awesome-reveal";
+import { useTheme, useMediaQuery } from '@mui/material';
 
 const Goals = () => {
+  const [showDetails, setShowDetails] = React.useState(false);
+  const theme = useTheme();
+  const isSmallScreen = useMediaQuery(theme.breakpoints.down('sm')); // Matches small devices
+
+  const paperWidth = isSmallScreen ? '80%' : '50%';;
   return (
     <>
     <Navbar/>
     <div style={{display:'flex', alignItems:'center', height:'auto', flexDirection:'column', justifyContent:'center', minHeight:'100vh'}}>
-    <Paper elevation={3} sx={{maxWidth:'50%', padding: '20px', height:'auto'}}>
+    <Paper elevation={3} sx={{maxWidth: paperWidth, padding: '20px', height:'auto'}}>
       <h1 style={{textAlign:'center'}}>Our Goals</h1>
       <Fade delay={700}>
       <p>Our Goal is to treat our clients as more than just an isolated business or service transaction. We are committed to:</p>
