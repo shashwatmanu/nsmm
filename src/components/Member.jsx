@@ -30,8 +30,11 @@ const Member = ({data}) => {
         <div style={{position: 'absolute',
           top: '50%',
           left: '50%',
-           transform: 'translate(-50%, -50%)'}}> 
-      <Card sx={{padding:'20px'}}>{data.about}</Card>
+           transform: 'translate(-50%, -50%)',
+           height:'70vh', 
+           width:'60vw',
+           overflowY: 'hidden'}}> 
+      <Card sx={{ padding: '20px', maxHeight:'100%', overflowY: 'auto' }}>{data.about}</Card>
         </div>
       </Modal>
       </CardActions>
