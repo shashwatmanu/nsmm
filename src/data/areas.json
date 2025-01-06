@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Arbitration",
+        "description": "The Members of the Firm have advised and represented clients regarding Alternate Dispute Resolution. These alternatives to the normal means of settling disputes through litigation include not only the well-known technique of arbitration but other, usually nonbinding, procedures such as mediation and conciliation. ADR can be useful in many different contexts and for a variety of reasons: to speed up the process or reduce the costs of dispute resolution; to increase client awareness of issues and risk; to preserve a client’s ongoing business relationships; to allow specially trained arbitrators to judge complex technical issues; to accommodate divergent foreign laws and cultures in international transactions; and to minimize public disclosure of a dispute."
+        
+    },
+    {
+        "id": 2,
+        "name": "Industrial and Labour Laws",
+        "description": "The Firm has vast expertise in labour/employment related laws and is actively involved in conducting Legal Audit, the scope of which inculcates preparing a detailed report on compliances/non-compliances qua labour laws applicable to any Company/Factory. Based on the Legal Audit report, the Firm advices the client on steps to be taken to achieve clarity and compliance with the applicable laws and norms. The labour practice of the firm also includes pro-active litigation prevention, employment discrimination and wrongful discharge, Labour Relations, company training and policy development."
+    },
+    {
+        "id": 3,
+        "name": "Employement and Service Laws",
+        "description": "The Firm advises several of its clients, including Indian Army, Navy, Air Force Personnel, other Armed Forces of the country and other Public Sector employees along with other private national company employees on employment law related matters in India. The range of services includes providing advice and assistance in settlements, negotiating employment contracts, advising on labour issues in mergers and acquisitions, structuring VRS etc. We advise Indian Armed Forces personnel both serving and retired on employment, Court Martial and other service law issues. This includes advice on terms of appointment and conditions of service, transfer, layoff, retrenchment, discharge or dismissal of employees and structuring of voluntary retirement schemes, employee stock options, pension etc."
+    },
+    {
+        "id": 4,
+        "name": "Environmental Law",
+        "description":"The Firm regularly provides advice to our clients in the areas of Environmental Laws including wildlife protection, animal welfare, along with air, water, solid waste, hazardous chemicals, infectious waste, underground storage tanks, commercial transactions, pollution insurance and real estate transactions. We also provide comprehensive services in regulatory and compliance matters including assisting entities in interpreting and understanding the complexities of Environmental Law."
+    },
+    {
+        "id": 5,
+        "name": "Intellectual Property",
+        "description":"The firm’s intellectual property practice involves counselling clients in managing their intellectual property assets and representing them in litigation relating to intellectual property matters. This work also includes assistance with registration and other measures to protect trademarks and trade names; the development of programs to protect confidential information; and advice on the licensing of computer software."
+    },
+    {
+        "id": 6,
+        "name": "Banking & Financial",
+        "description":"We provide services and advice on all types of commercial and banking transactions including negotiations and documentation. The Firm’s extensive experience includes handling the legal aspects of the commercial, banking and financial transaction of leading corporations in India."
+    },
+    {
+        "id": 7,
+        "name": "Consumer Rights & Product Liability",
+        "description":"The firm advises on issues & obligations associated with the sale of consumer products and services. The firm provides services in all fields for the protection of consumer rights and product liabilities to consumers, as well as to the manufacturers and suppliers of products and services."
+    },
+    {
+        "id": 8,
+        "name": "Family Law ",
+        "description":"The firm provides advisory and litigation services in all aspects of personal laws of all communities in India including in special marriage statutes, adoption, marriage, divorce and judicial separation."
+    },
+    {
+        "id": 9,
+        "name": "Litigation",
+        "description":"The Firm is actively engaged in several litigations, both complex and otherwise. These include representing clients in recovery proceedings, consumer complaints, commercial disputes, real estate disputes, competition laws, arbitration etc."
+    },
+    {
+        "id": 10,
+        "name": "Tax Laws",
+        "description":"The firm provides advisory and litigation services in all aspects of tax laws. Advising clients on income tax and GST related issues, filing of income tax returns, GST returns etc."
+    },
+    {
+        "id": 11,
+        "name": "SEBI Laws",
+        "description":"The firm provides services in the matter of compliance under various SEBI Regulations. Advisory / Consultancy services relating to IPO/FPO/Right issue/Split/Bonus issue/ESOPs/Dividend/PIT/various policies under SEBI (LODR) Regulations, 2015."
+    },
+    {
+        "id": 12,
+        "name": "Other Allied Services",
+        "description":"The Firm is actively engaged in providing all kind of allied legal services such as issuing legal notices on behalf of its clients, drafting and vetting of various agreements, POAs, Affidavits, due diligence, registration of documents, stamp duty matters"
+    }
+]

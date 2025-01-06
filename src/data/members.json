@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "N.K. Sinha",
+        "position": "Mentor / Sr. Consultant",
+        "about":"Our Senior most member Mr. N.K. Sinha a Commerce graduate and a Fellow member (FCS) of The Institute of Company Secretaries of India (ICSI). Has also done MBA with specialization in Finance and LLB. He is also a member of All India Management Association (AIMA) and All India Council of Arbitration (MICA). He has more than 35 years of professional experience in the field of Finance, Accounts, Corporate Affairs, Secretarial, Legal, Risk management & General Management of Private Sector Companies, Public Sector Companies, Subsidiaries & Joint Ventures. As Company Secretary to various Public Sector Undertaking and Private Sector Companies, he was associated with the Board Management of the Companies and reporting directly to the CMD/Chief Executives of the Organization. He served as the head of legal department BHEL where he was actively involved in drafting and vetting of legal documents, providing legal opinion on various contractual matters, Service matters, Arbitration, Litigation, Liaison and Co-ordination with Advocates. During his tenure he successfully handled Arbitration cases including International Arbitration. Travelled widely to various countries in this regard and coordinated with foreign lawyers and solicitors. His specific areas of expertise include Board management, Compliance management, Committee management, IPO, FPO, Offer for Sale, Management of Secretarial/Share Department, Compliance of the provisions of the Companies Act, SEBI Regulations, DPE Guidelines, Dividend payments, Issue of Bonus Shares, Split of shares, Managing Annual General Meetings, Risk Management, Mergers & Acquisition, Re-structuring, Liaison with Registrar and Share Transfer Agents, Depositories & Stock Exchanges. During his association with ONGC, a Maharatna PSU, the Company had secured awards for achieving excellence in Corporate Governance for last 5 (Five) consecutive years."
+    }
+        ,
+    {
+        "id": 2,
+        "name": "Mukesh Mishra",
+        "position": "Advocate",
+        "member": ["Bar Council of Delhi", "Delhi High Court Bar Association"],
+        "about":"Shri Mukesh Mishra, Postgraduate in Commerce having Bachelor’s degree in Law (LL.B), is a young, energetic legal professional having varied experience in the field of Corporate Law, Tax Laws, Labor Laws, SEBI Regulations, Litigation, Arbitration and other allied legal services. He has represented clients before various judicial authorities, District courts, High courts, ROC, NFRA, RERA, NCLT and Tax authorities. He has more than 4 years’ experience of handling compliance issues under the Companies Act, 2013 and SEBI Regulations. Prior to joining Bar Council of Delhi, he has been associated with Kumar Naresh Sinha & Associates, a reputed firm of Company Secretaries having its office at Noida. During his association with the PCS firm, he has handled independently drafting of legal opinions, compliances under Companies Act, SEBI Regulations, Secretarial Audit, Secretarial Compliances, filing of various e-forms and returns with ROC, Ministry of Corporate Affairs relating to reputed Public Sector Undertakings (PSUs), Public companies, Private companies, Joint ventures and subsidiaries, Income tax and GST matters. He has actively coordinated with the clients of the firm."
+    }
+       ,
+    {
+        "id": 3,
+        "name": "Vikas Tripathi",
+        "position": "Advocate",
+        "member": ["Bar Council of Delhi", "Delhi High Court Bar Association"],
+        "about": "Distinguished Advocate with over twelve years of experience in the legal field. His main practice area includes Civil and Criminal matters."
+    }
+      ,
+    {
+        "id": 4,
+        "name": "Mandavi Pandey",
+        "position": "Advocate",
+        "member": ["Bar Council of Delhi", "Delhi High Court Bar Association", "Supreme Court Bar Association"],
+        "about": "An astute professional with proven track record possessing extensive hands-on experience in Service as well as Arbitration matters. She is a highly accomplished professional with a positive attitude, dedication to work and an ambition to succeed. She has analytical mindset, legal acumen, great communication and interpretational skills. She has over 11 years of experience in litigation."}
+]
